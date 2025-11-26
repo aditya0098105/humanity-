@@ -1,0 +1,43 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  color-scheme: light;
+}
+
+body {
+  @apply bg-muted text-gray-800 font-sans antialiased;
+}
+
+a {
+  @apply text-inherit no-underline;
+}
+
+.section-padding {
+  @apply py-16 px-4 sm:px-8 lg:px-16;
+}
+
+.section-title {
+  @apply text-3xl sm:text-4xl font-bold text-secondary mb-4;
+}
+
+.section-subtitle {
+  @apply text-lg text-gray-600 mb-8;
+}
+
+.card {
+  @apply bg-white rounded-2xl shadow-card p-6 hover:-translate-y-1 transition-transform;
+}
+
+.badge {
+  @apply inline-flex items-center gap-2 rounded-full bg-primary/10 text-primary px-3 py-1 text-sm font-medium;
+}
+
+.button-primary {
+  @apply inline-flex items-center justify-center gap-2 rounded-full bg-primary text-white px-6 py-3 font-semibold shadow-card hover:bg-secondary transition-colors;
+}
+
+.button-secondary {
+  @apply inline-flex items-center justify-center gap-2 rounded-full border border-primary text-primary px-6 py-3 font-semibold hover:bg-primary hover:text-white transition-colors;
+}

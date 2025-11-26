@@ -1,0 +1,93 @@
+[
+  {
+    "slug": "food-security-kenya",
+    "title": "Food Security Kits for Northern Kenya",
+    "category": "Food Support",
+    "location": "Garissa, Kenya",
+    "country": "Kenya",
+    "goal": 500000,
+    "raised": 320000,
+    "summary": "Delivering monthly food baskets to drought-impacted families.",
+    "description": "HumanityFirst Global Relief is partnering with local cooperatives to provide emergency food baskets, nutrition counseling, and livelihood training for pastoral communities facing prolonged drought.",
+    "banner": "/images/projects/food-security.jpg",
+    "progress": 64
+  },
+  {
+    "slug": "education-digital-labs-india",
+    "title": "Digital Learning Labs for Rural India",
+    "category": "Education Support",
+    "location": "Odisha, India",
+    "country": "India",
+    "goal": 350000,
+    "raised": 210000,
+    "summary": "STEM-ready classrooms with tablets and teacher training.",
+    "description": "This program equips rural schools with solar-powered tablets, offline-first digital curriculum, and continuous mentorship for teachers to accelerate learning outcomes.",
+    "banner": "/images/projects/education-lab.jpg",
+    "progress": 60
+  },
+  {
+    "slug": "mobile-health-clinics-peru",
+    "title": "Mobile Health Clinics for the Andes",
+    "category": "Healthcare Support",
+    "location": "Cusco, Peru",
+    "country": "Peru",
+    "goal": 420000,
+    "raised": 310000,
+    "summary": "Primary healthcare access via solar-powered mobile clinics.",
+    "description": "Deploying nurse-led mobile clinics with telehealth connectivity to reach remote Andean villages for diagnostics, maternal care, and vaccinations.",
+    "banner": "/images/projects/mobile-health.jpg",
+    "progress": 74
+  },
+  {
+    "slug": "rapid-response-nepal",
+    "title": "Rapid Response for Monsoon Emergencies",
+    "category": "Disaster Relief",
+    "location": "Province No. 1, Nepal",
+    "country": "Nepal",
+    "goal": 600000,
+    "raised": 455000,
+    "summary": "Shelter, clean water, and cash support during floods.",
+    "description": "Our rapid response teams pre-position tarpaulins, water filters, and hygiene kits. We also run cash-for-work programs to help families rebuild livelihoods.",
+    "banner": "/images/projects/disaster-relief.jpg",
+    "progress": 76
+  },
+  {
+    "slug": "reforestation-indonesia",
+    "title": "Community Reforestation in Indonesia",
+    "category": "Environment Protection",
+    "location": "Kalimantan, Indonesia",
+    "country": "Indonesia",
+    "goal": 300000,
+    "raised": 195000,
+    "summary": "Tree planting with community stewardship and biodiversity monitoring.",
+    "description": "We train youth forest rangers, plant native species, and deploy sensors to track carbon capture and biodiversity recovery in peatland areas.",
+    "banner": "/images/projects/reforestation.jpg",
+    "progress": 65
+  },
+  {
+    "slug": "safe-homes-uganda",
+    "title": "Safe Homes for Women & Children",
+    "category": "Women & Child Welfare",
+    "location": "Gulu, Uganda",
+    "country": "Uganda",
+    "goal": 280000,
+    "raised": 160000,
+    "summary": "Protection services and education pathways for survivors of violence.",
+    "description": "Safe shelters with psychosocial support, legal aid, and accelerated schooling for women and children seeking refuge.",
+    "banner": "/images/projects/safe-homes.jpg",
+    "progress": 57
+  },
+  {
+    "slug": "animal-care-jordan",
+    "title": "Animal Welfare & Community Clinics",
+    "category": "Animal Welfare",
+    "location": "Amman, Jordan",
+    "country": "Jordan",
+    "goal": 150000,
+    "raised": 92000,
+    "summary": "Mobile vet clinics and humane education for youth.",
+    "description": "Delivering vaccinations, rescue services, and humane education campaigns to reduce animal suffering and improve public health.",
+    "banner": "/images/projects/animal-welfare.jpg",
+    "progress": 61
+  }
+]

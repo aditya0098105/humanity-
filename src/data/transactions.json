@@ -1,0 +1,7 @@
+[
+  {"id": "TXN-1021", "projectSlug": "food-security-kenya", "type": "Food baskets", "amount": 15000, "date": "2025-01-12"},
+  {"id": "TXN-1022", "projectSlug": "mobile-health-clinics-peru", "type": "Medical supplies", "amount": 18000, "date": "2025-01-10"},
+  {"id": "TXN-1023", "projectSlug": "reforestation-indonesia", "type": "Seedlings purchase", "amount": 7000, "date": "2025-01-09"},
+  {"id": "TXN-1024", "projectSlug": "rapid-response-nepal", "type": "Cash transfers", "amount": 22000, "date": "2025-01-08"},
+  {"id": "TXN-1025", "projectSlug": "education-digital-labs-india", "type": "Teacher training", "amount": 12000, "date": "2025-01-07"}
+]
